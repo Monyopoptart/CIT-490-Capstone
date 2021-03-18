@@ -44,7 +44,9 @@
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
-
+Content/ProceduralNaturePack/*
+Content/MS_ForestTut/*
+Content/PN_interactiveSpruceForest/*
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
