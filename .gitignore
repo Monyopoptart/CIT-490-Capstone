@@ -47,6 +47,8 @@ SourceArt/**/*.tga
 Content/ProceduralNaturePack/*
 Content/MS_ForestTut/*
 Content/PN_interactiveSpruceForest/*
+Content/QuadrapedCreatures/*
+
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
