@@ -24,7 +24,7 @@ void ACameraSwapScript::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
-    const float TimeBetweenCameraChanges = 2.0f;
+    const float TimeBetweenCameraChanges = 0.0f;
     const float SmoothBlendTime = 0.75f;
     TimeToNextCameraChange -= DeltaTime;
     if (TimeToNextCameraChange <= 0.0f)
